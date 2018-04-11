@@ -19,3 +19,5 @@
 /WebApplication1/obj/WebApplication1.csproj.nuget.cache
 /WebApplication1/obj/WebApplication1.csproj.nuget.g.targets
 /WebApplication1/obj/WebApplication1.csproj.nuget.g.props
+/WebApplication1/npm-debug.log
+/WebApplication1/node_modules
